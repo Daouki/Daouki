@@ -7,6 +7,7 @@ I'm a computer science student who's passionate about systems programming,
 especially programming language and operating system development.
 
 <br>
+<br>
 
 <p align="center">
 <img align="middle" src="https://github-readme-stats.vercel.app/api?username=Daouki&show_icons=true&count_private=true" alt="GitHub Stats">
