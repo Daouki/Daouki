@@ -1,12 +1,10 @@
 <h1 align="center">Hi, I'm Damian!</h1>
 
 <br>
-<br>
 
 I'm a computer science student who's passionate about systems programming,
 especially programming language and operating system development.
 
-<br>
 <br>
 
 <p align="center">
@@ -16,6 +14,8 @@ especially programming language and operating system development.
 <br>
 
 ## Technologies I love
+
+<br>
 
 <p align="center">
 <img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daouki" alt="Top Languages">
