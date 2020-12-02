@@ -2,24 +2,22 @@
 
 <br>
 
+<p align="center">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api?username=Daouki&show_icons=true&count_private=true" alt="GitHub Stats">
+</p>
+
+<br>
+
 I'm a computer science student who's passionate about systems programming,
-especially programming language and operating system development.
+especially programming language compiler and interpreter development, as well as operating system development.
 
 <br>
 
 <p align="center">
-<img align="middle" src="https://github-readme-stats.vercel.app/api?username=Daouki&show_icons=true&count_private=true" alt="GitHub Stats">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daouki&layout=compact" alt="Top Languages">
 </p>
 
 <br>
-
-## Technologies I love
-
-<br>
-
-<p align="center">
-<img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daouki" alt="Top Languages">
-</p>
 
 <!--
 **Daouki/Daouki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
