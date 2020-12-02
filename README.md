@@ -1,13 +1,24 @@
-# Hi, I'm Damian!
+<h1 align="center">Hi, I'm Damian!</h1>
+
+<br>
+<br>
 
 I'm a computer science student who's passionate about systems programming,
 especially programming language and operating system development.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daouki&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 
-**TODO**: Some more info about me.
+<p align="center">
+<img align="middle" src="https://github-readme-stats.vercel.app/api?username=Daouki&show_icons=true&count_private=true" alt="GitHub Stats">
+</p>
 
-![Daouki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daouki&show_icons=true&theme=tokyonight&count_private=true)
+<br>
+
+## Technologies I love
+
+<p align="center">
+<img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daouki" alt="Top Languages">
+</p>
 
 <!--
 **Daouki/Daouki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
